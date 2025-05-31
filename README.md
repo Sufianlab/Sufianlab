@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sufianlab (Dr. Abu Sufian)
 - 👀 I’m interested in Computer Vision and Deep Learning
-- 🌱 I’m currently learning PyTorch, Fastai for our reserch works
+- 🌱 I’m currently working on Fairness in GenAI
 - 💞️ I’m looking to collaborate on in Computer Vision tasks
 - 📫 How to reach me: sufian@ieee.org / sufian@ugb.ac.in
 
