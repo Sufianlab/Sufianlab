@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sufianlab (Dr. Abu Sufian)
+- 👋 Hi, I’m Dr. Abu Sufian ( @Sufianlab ), my personal website: https://sufianlab.github.io/
 - 👀 I’m interested in Computer Vision and Deep Learning
 - 🌱 I’m currently working on Fairness in GenAI
-- 💞️ I’m looking to collaborate on in Computer Vision tasks
+- 💞️ I’m looking to collaborate on Responsible AI development. 
 - 📫 How to reach me: sufian@ieee.org / sufian@ugb.ac.in /abusufian@cnr.it
 
 <!---
