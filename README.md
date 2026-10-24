@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning, GenAI, and Computer Vision
 - 🌱 I’m currently working on Fairness in GenAI
 - 💞️ I’m looking to collaborate on Responsible AI development. 
-- 📫 How to reach me: sufian@ieee.org / sufian@ugb.ac.in / abusufian@cnr.it
+- 📫 How to reach me: sufian@ieee.org / sufian@ugb.ac.in / drabu.sufian@uaqu.ac.ae
 
 <!---
 Sufianlab/Sufianlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
